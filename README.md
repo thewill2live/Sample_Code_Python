@@ -1,2 +1,2 @@
 # Sample_Code_Python
-Sample code from past projects.
+Sample code from past python projects.

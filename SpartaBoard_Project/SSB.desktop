@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Spartan Smart Board
+Comment=Start a new instance of the Spartan Smart Board system
+Icon=/home/pi/SSBrepo/spartansmartboard/SSB.png
+Exec=python /home/pi/SSBrepo/spartansmartboard/SpartanSmartBoard.py
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
